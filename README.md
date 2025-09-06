@@ -47,20 +47,24 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 
 ### 2. Schematic of Full Custom 2:1 MUX
-![Screenshot 2025-03-08 114727](https://github.com/user-attachments/assets/0080c175-c388-4bcf-9ab4-c5fe8ba5d041)
+<img width="1365" height="767" alt="2circuit" src="https://github.com/user-attachments/assets/80925494-6de8-45f3-bedf-dfbf17b2a081" />
+
 
 
 ### 3. Transient Response Setup
 
-*![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)*
+<img width="406" height="479" alt="2an" src="https://github.com/user-attachments/assets/12e088ad-e873-42e5-b993-e75244603bf8" />
 
 
-![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+
+<img width="1363" height="767" alt="2dappa" src="https://github.com/user-attachments/assets/1a2956f4-7074-4f1a-91ec-91d2e8253710" />
+
 
 ## Output
 
 ### 1. Transient Analysis Output
-*![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)*
+<img width="1365" height="767" alt="2out" src="https://github.com/user-attachments/assets/f50447e9-ffcc-4170-89ff-0f2f406a3fa0" />
+
 
 ## Results
 1. Successfully designed the full custom 2:1 MUX schematic using Cadence EDA tools.
